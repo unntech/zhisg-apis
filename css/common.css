@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{margin:0; padding:0; font-size:12px; font-family: arial,"Microsoft Yahei","Hiragino Sans GB",sans-serif;}
+a:link,a:visited,a:active{text-decoration:none;}
+div{margin:0 auto}
+.m{width:1200px; clear:both;}
+.m1{width:1000px; clear:both;}
+.m2{width:800px; clear:both;}
+.mob{width:320px; clear:both;}
+.touch{width:640px; clear:both;}
+.c_b{clear:both; width: 100%;}
+.c_p {cursor:pointer;}
+.d_none{display:none;}
+
+/* basic algin */
+.f_l {float:left;}
+.f_r {float:right;}
+
+.dot{height:1px; border-top:#CCC dotted 1px; }
+.cen{text-align:center;}
+
+.b5 {height:5px;font-size:1px;}
+.b6 {height:6px;font-size:1px;}
+.b8 {height:8px;font-size:1px;}
+.b10 {height:10px;font-size:1px;}
+.b15 {height:15px;font-size:1px;}
+.b20 {height:20px;font-size:1px;}
+.b30 {height:30px;font-size:1px;}
+.mtop5{margin-top:5px;}
+.mtop6{margin-top:6px;}
+.mtop8{margin-top:8px;}
+.mtop10{margin-top:10px;}
+.mtop15{margin-top:15px;}
+.mtop20{margin-top:20px;}
+.mtop30{margin-top:30px;}
