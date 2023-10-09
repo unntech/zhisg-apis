@@ -1,0 +1,37 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 阿里妈妈方圆体 */
+@font-face {
+    font-family: "AlimamaFangYuanTiVF-Thin";
+    src: url("./woff/AlimamaFangYuanTiVF-Thin.woff") format("woff"), url("./woff/AlimamaFangYuanTiVF-Thin.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* 阿里妈妈刀隶体 */
+@font-face {
+    font-family: "AlimamaDaoLiTi";
+    src: url("./woff/AlimamaDaoLiTi.woff") format("woff"), url("./woff/AlimamaDaoLiTi.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* 阿里妈妈数黑体 */
+@font-face {
+    font-family: "AlimamaShuHeiTi-Bold";
+    src: url("./woff/AlimamaShuHeiTi-Bold.woff") format("woff"), url("./woff/AlimamaShuHeiTi-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* 阿里妈妈东方大楷 */
+@font-face {
+    font-family: "AlimamaDongFangDaKai-Regular";
+    src: url("./woff/AlimamaDongFangDaKai-Regular.woff") format("woff"), url("./woff/AlimamaDongFangDaKai-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+
+/* 阿里妈妈灵动体（alimama agile） */
+@font-face {
+    font-family: "AlimamaAgileVF-Thin";
+    src: url("./woff/AlimamaAgileVF-Thin.woff") format("woff"), url("./woff/AlimamaAgileVF-Thin.woff2") format("woff2");
+    font-display: swap;
+}
