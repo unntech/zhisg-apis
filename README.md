@@ -2,9 +2,6 @@
 Zhisg Apis 1.0
 ===============
 
-[![Total Downloads](https://poser.pugx.org/unntech/zhisg-apis/downloads)](https://packagist.org/packages/unntech/litephp)
-[![License](https://poser.pugx.org/unntech/zhisg-apis/license)](https://packagist.org/packages/unntech/litephp)
-
 静态资源以及公共库
 
 目录结构
@@ -16,6 +13,7 @@ zhisg-apis/
 │   └── select                                  #Bootstrap-Select
 ├── css                                         #通用类CSS
 ├── echarts                                     #echarts图表
+├── editor                                      #图文编辑器
 ├── fonts                                       #外部三方字库
 ├── jquery                                      #jQuery
 ├── js                                          #通用类JS
