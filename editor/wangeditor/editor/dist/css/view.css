@@ -22,7 +22,7 @@
 }
 .editor-content-view pre>code {
   display: block;
-  padding: 10px;
+  /*padding: 10px;*/
 }
 
 .editor-content-view table {
@@ -45,4 +45,8 @@
 
 .editor-content-view input[type="checkbox"] {
   margin-right: 5px;
+}
+
+.editor-content-view video{
+  width: 100%;
 }
