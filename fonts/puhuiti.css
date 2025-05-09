@@ -1,0 +1,92 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 阿里巴巴普惠体（Thin） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Thin";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_35_Thin_35_Thin.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_35_Thin_35_Thin.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_35_Thin_35_Thin.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Thin{
+    font-family: AlibabaPuHuiTi-Thin, serif;
+}
+
+/* 阿里巴巴普惠体（Light） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Light";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_45_Light_45_Light.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_45_Light_45_Light.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_45_Light_45_Light.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Light{
+    font-family: AlibabaPuHuiTi-Light, serif;
+}
+
+/* 阿里巴巴普惠体（Regular） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Regular";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_55_Regular_55_Regular.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_55_Regular_55_Regular.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_55_Regular_55_Regular.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Regular{
+    font-family: AlibabaPuHuiTi-Regular, serif;
+}
+
+/* 阿里巴巴普惠体（Medium） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Medium";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_65_Medium_65_Medium.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_65_Medium_65_Medium.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_65_Medium_65_Medium.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Medium{
+    font-family: AlibabaPuHuiTi-Medium, serif;
+}
+
+/* 阿里巴巴普惠体（SemiBold） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-SemiBold";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_75_SemiBold_75_SemiBold.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_75_SemiBold_75_SemiBold.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_75_SemiBold_75_SemiBold.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-SemiBold{
+    font-family: AlibabaPuHuiTi-SemiBold, serif;
+}
+
+/* 阿里巴巴普惠体（Bold） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Bold";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_55_Regular_85_Bold.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_55_Regular_85_Bold.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_55_Regular_85_Bold.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Bold{
+    font-family: AlibabaPuHuiTi-Bold, serif;
+}
+
+/* 阿里巴巴普惠体（ExtraBold） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-ExtraBold";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_95_ExtraBold_95_ExtraBold.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_95_ExtraBold_95_ExtraBold.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_95_ExtraBold_95_ExtraBold.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-ExtraBold{
+    font-family: AlibabaPuHuiTi-ExtraBold, serif;
+}
+
+/* 阿里巴巴普惠体（Heavy） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Heavy";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_105_Heavy_105_Heavy.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_105_Heavy_105_Heavy.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_105_Heavy_105_Heavy.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Heavy{
+    font-family: AlibabaPuHuiTi-Heavy, serif;
+}
+
+/* 阿里巴巴普惠体（Black） */
+@font-face {
+    font-family: "AlibabaPuHuiTi-Black";
+    src: url("./ttf/Alibaba_PuHuiTi_2.0_115_Black_115_Black.ttf") format('truetype'), url("./woff/Alibaba_PuHuiTi_2.0_115_Black_115_Black.woff") format("woff"), url("./woff/Alibaba_PuHuiTi_2.0_115_Black_115_Black.woff2") format("woff2");
+    font-display: swap;
+}
+.font-AlibabaPuHuiTi-Black{
+    font-family: AlibabaPuHuiTi-Black, serif;
+}

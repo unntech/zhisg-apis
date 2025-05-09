@@ -7,6 +7,9 @@
     src: url("./woff/AlimamaFangYuanTiVF-Thin.woff") format("woff"), url("./woff/AlimamaFangYuanTiVF-Thin.woff2") format("woff2");
     font-display: swap;
 }
+.font-AlimamaFangYuanTiVF-Thin{
+    font-family: AlimamaFangYuanTiVF-Thin, serif;
+}
 
 /* 阿里妈妈刀隶体 */
 @font-face {
@@ -14,24 +17,36 @@
     src: url("./woff/AlimamaDaoLiTi.woff") format("woff"), url("./woff/AlimamaDaoLiTi.woff2") format("woff2");
     font-display: swap;
 }
+.font-AlimamaDaoLiTi{
+    font-family: AlimamaDaoLiTi, serif;
+}
 
 /* 阿里妈妈数黑体 */
 @font-face {
     font-family: "AlimamaShuHeiTi-Bold";
-    src: url("./woff/AlimamaShuHeiTi-Bold.woff") format("woff"), url("./woff/AlimamaShuHeiTi-Bold.woff2") format("woff2");
+    src: url("./otf/AlimamaShuHeiTi-Bold.otf") format('opentype'), url("./woff/AlimamaShuHeiTi-Bold.woff") format("woff"), url("./woff/AlimamaShuHeiTi-Bold.woff2") format("woff2");
     font-display: swap;
+}
+.font-AlimamaShuHeiTi-Bold{
+    font-family: AlimamaShuHeiTi-Bold, sans-serif;
 }
 
 /* 阿里妈妈东方大楷 */
 @font-face {
     font-family: "AlimamaDongFangDaKai-Regular";
-    src: url("./woff/AlimamaDongFangDaKai-Regular.woff") format("woff"), url("./woff/AlimamaDongFangDaKai-Regular.woff2") format("woff2");
+    src: url("./otf/AlimamaDongFangDaKai-Regular.otf") format('opentype'), url("./woff/AlimamaDongFangDaKai-Regular.woff") format("woff"), url("./woff/AlimamaDongFangDaKai-Regular.woff2") format("woff2");
     font-display: swap;
+}
+.font-AlimamaDongFangDaKai-Regular{
+    font-family: AlimamaDongFangDaKai-Regular, sans-serif;
 }
 
 /* 阿里妈妈灵动体（alimama agile） */
 @font-face {
     font-family: "AlimamaAgileVF-Thin";
-    src: url("./woff/AlimamaAgileVF-Thin.woff") format("woff"), url("./woff/AlimamaAgileVF-Thin.woff2") format("woff2");
+    src: url("./ttf/AlimamaAgileVF-Thin.ttf") format('truetype'), url("./woff/AlimamaAgileVF-Thin.woff") format("woff"), url("./woff/AlimamaAgileVF-Thin.woff2") format("woff2");
     font-display: swap;
+}
+.font-AlimamaAgileVF-Thin{
+    font-family: AlimamaAgileVF-Thin, serif;
 }

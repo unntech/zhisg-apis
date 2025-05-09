@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 思源黑体（Normal） */
+@font-face {
+    font-family: "SourceHanSans-Normal";
+    src: url("./otf/Source_Han_Sans_SC_Normal.otf") format('opentype'), url("./woff/SourceHanSans-Normal.woff") format("woff"), url("./woff/SourceHanSans-Normal.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-Normal{
+    font-family: SourceHanSans-Normal, sans-serif;
+}
+
+/* 思源黑体（ExtraLight） */
+@font-face {
+    font-family: "SourceHanSans-ExtraLight";
+    src: url("./otf/Source_Han_Sans_SC_ExtraLight.otf") format('opentype'), url("./woff/SourceHanSans-ExtraLight.woff") format("woff"), url("./woff/SourceHanSans-ExtraLight.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-ExtraLight{
+    font-family: SourceHanSans-ExtraLight, sans-serif;
+}
+
+/* 思源黑体（Light） */
+@font-face {
+    font-family: "SourceHanSans-Light";
+    src: url("./otf/Source_Han_Sans_SC_Light.otf") format('opentype'), url("./woff/SourceHanSans-Light.woff") format("woff"), url("./woff/SourceHanSans-Light.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-Light{
+    font-family: SourceHanSans-Light, sans-serif;
+}
+
+/* 思源黑体（Regular） */
+@font-face {
+    font-family: "SourceHanSans-Regular";
+    src: url("./otf/Source_Han_Sans_SC_Regular.otf") format('opentype'), url("./woff/SourceHanSans-Regular.woff") format("woff"), url("./woff/SourceHanSans-Regular.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-Regular{
+    font-family: SourceHanSans-Regular, sans-serif;
+}
+
+/* 思源黑体（Medium） */
+@font-face {
+    font-family: "SourceHanSans-Medium";
+    src: url("./otf/Source_Han_Sans_SC_Medium.otf") format('opentype'), url("./woff/SourceHanSans-Medium.woff") format("woff"), url("./woff/SourceHanSans-Medium.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-Medium{
+    font-family: SourceHanSans-Medium, sans-serif;
+}
+
+/* 思源黑体（Bold） */
+@font-face {
+    font-family: "SourceHanSans-Bold";
+    src: url("./otf/Source_Han_Sans_SC_Bold.otf") format('opentype'), url("./woff/SourceHanSans-Bold.woff") format("woff"), url("./woff/SourceHanSans-Bold.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-Bold{
+    font-family: SourceHanSans-Bold, sans-serif;
+}
+
+/* 思源黑体（Heavy） */
+@font-face {
+    font-family: "SourceHanSans-Heavy";
+    src: url("./otf/Source_Han_Sans_SC_Heavy.otf") format('opentype'), url("./woff/SourceHanSans-Heavy.woff") format("woff"), url("./woff/SourceHanSans-Heavy.woff2") format("woff2");
+    font-display: swap;
+}
+.font-SourceHanSans-Heavy{
+    font-family: SourceHanSans-Heavy, sans-serif;
+}
