@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* 千图笔锋手写体 */
+@font-face {
+    font-family: "QianTuBiFengShouXieTi";
+    src: url("./ttf/qiantubifengshouxieti-Regular.ttf") format('truetype');
+    font-display: swap;
+}
+.font-QianTuBiFengShouXieTi{
+    font-family: QianTuBiFengShouXieTi, serif;
+}
+
+/* 优设标题圆 */
+@font-face {
+    font-family: "YouSheBiaoTiYuan";
+    src: url("./otf/YouSheBiaoTiYuan-Regular.otf") format('opentype');
+    font-display: swap;
+}
+.font-YouSheBiaoTiYuan{
+    font-family: YouSheBiaoTiYuan, serif;
+}
+
+/* 鸿雷板书简体 */
+@font-face {
+    font-family: "HongLeiBanShu";
+    src: url("./ttf/HongLeiBanShu-Regular.ttf") format('truetype');
+    font-display: swap;
+}
+.font-HongLeiBanShu{
+    font-family: HongLeiBanShu, serif;
+}
