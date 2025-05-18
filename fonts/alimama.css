@@ -4,7 +4,7 @@
 /* 阿里妈妈方圆体 */
 @font-face {
     font-family: "AlimamaFangYuanTiVF-Thin";
-    src: url("./woff/AlimamaFangYuanTiVF-Thin.woff") format("woff"), url("./woff/AlimamaFangYuanTiVF-Thin.woff2") format("woff2");
+    src: url("./woff/AlimamaFangYuanTiVF-Thin.woff2") format("woff2"), url("./woff/AlimamaFangYuanTiVF-Thin.woff") format("woff"), url("./ttf/AlimamaFangYuanTiVF-Thin.ttf") format('truetype');
     font-display: swap;
 }
 .font-AlimamaFangYuanTiVF-Thin{
@@ -14,7 +14,7 @@
 /* 阿里妈妈刀隶体 */
 @font-face {
     font-family: "AlimamaDaoLiTi";
-    src: url("./woff/AlimamaDaoLiTi.woff") format("woff"), url("./woff/AlimamaDaoLiTi.woff2") format("woff2");
+    src: url("./woff/AlimamaDaoLiTi.woff2") format("woff2"), url("./woff/AlimamaDaoLiTi.woff") format("woff");
     font-display: swap;
 }
 .font-AlimamaDaoLiTi{
@@ -24,7 +24,7 @@
 /* 阿里妈妈数黑体 */
 @font-face {
     font-family: "AlimamaShuHeiTi-Bold";
-    src: url("./otf/AlimamaShuHeiTi-Bold.otf") format('opentype'), url("./woff/AlimamaShuHeiTi-Bold.woff") format("woff"), url("./woff/AlimamaShuHeiTi-Bold.woff2") format("woff2");
+    src: url("./woff/AlimamaShuHeiTi-Bold.woff2") format("woff2"), url("./woff/AlimamaShuHeiTi-Bold.woff") format("woff"), url("./otf/AlimamaShuHeiTi-Bold.otf") format('opentype');
     font-display: swap;
 }
 .font-AlimamaShuHeiTi-Bold{
@@ -34,7 +34,7 @@
 /* 阿里妈妈东方大楷 */
 @font-face {
     font-family: "AlimamaDongFangDaKai-Regular";
-    src: url("./otf/AlimamaDongFangDaKai-Regular.otf") format('opentype'), url("./woff/AlimamaDongFangDaKai-Regular.woff") format("woff"), url("./woff/AlimamaDongFangDaKai-Regular.woff2") format("woff2");
+    src: url("./woff/AlimamaDongFangDaKai-Regular.woff2") format("woff2"), url("./woff/AlimamaDongFangDaKai-Regular.woff") format("woff"), url("./otf/AlimamaDongFangDaKai-Regular.otf") format('opentype');
     font-display: swap;
 }
 .font-AlimamaDongFangDaKai-Regular{
@@ -44,9 +44,19 @@
 /* 阿里妈妈灵动体（alimama agile） */
 @font-face {
     font-family: "AlimamaAgileVF-Thin";
-    src: url("./ttf/AlimamaAgileVF-Thin.ttf") format('truetype'), url("./woff/AlimamaAgileVF-Thin.woff") format("woff"), url("./woff/AlimamaAgileVF-Thin.woff2") format("woff2");
+    src: url("./woff/AlimamaAgileVF-Thin.woff2") format("woff2"), url("./woff/AlimamaAgileVF-Thin.woff") format("woff"), url("./ttf/AlimamaAgileVF-Thin.ttf") format('truetype');
     font-display: swap;
 }
 .font-AlimamaAgileVF-Thin{
     font-family: AlimamaAgileVF-Thin, serif;
+}
+
+/* 淘宝买菜体 */
+@font-face {
+    font-family: "TaoBaoMaiCaiTi-Regular";
+    src: url("./woff/TaoBaoMaiCaiTi-Regular.woff2") format("woff2"), url("./woff/TaoBaoMaiCaiTi-Regular.woff") format("woff"), url("./otf/TaoBaoMaiCaiTi-Regular.otf") format('opentype');
+    font-display: swap;
+}
+.font-TaoBaoMaiCaiTi-Regular{
+    font-family: TaoBaoMaiCaiTi-Regular, serif;
 }
